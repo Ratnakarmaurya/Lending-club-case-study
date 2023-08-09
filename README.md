@@ -16,7 +16,7 @@
 
 ### Project Background
 
-> This company is the largest **online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures**. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to **‘risky’** applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+> This firm stands as the leading digital loan marketplace, facilitating a range of loans including personal, business, and medical financing. Borrowers can effortlessly obtain loans with reduced interest rates through a rapid online platform. Similar to the majority of lending enterprises, extending loans to ‘high-risk’ applicants constitutes the most significant origin of financial shortfall, denoted as credit loss. This signifies the monetary value that the lender loses when the borrower declines payment or absconds with the borrowed funds. In simpler terms, borrowers who fail to meet their obligations contribute the most to the lenders' financial setbacks. In this particular situation, individuals categorized as 'charged-off' are synonymous with 'defaulters'. 
 
 ### Project Statement
 
